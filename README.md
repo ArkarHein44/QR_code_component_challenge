@@ -26,7 +26,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [https://github.com/ArkarHein44/QR_code_component_challenge](https://github.com/ArkarHein44/QR_code_component_challenge)
-- Live Site URL: [qr-code-component-challenge-three.vercel.app](qr-code-component-challenge-three.vercel.app)
+- Live Site URL: [https://qr-code-component-challenge-three.vercel.app](https://qr-code-component-challenge-three.vercel.app)
 
 ## My process
   1st I made a container with card, in card img, h3 and p tag with HTML.
