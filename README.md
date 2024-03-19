@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ArkarHein44/QR_code_component_challenge](https://github.com/ArkarHein44/QR_code_component_challenge)
+- Live Site URL: [qr-code-component-challenge-three.vercel.app](qr-code-component-challenge-three.vercel.app)
 
 ## My process
   1st I made a container with card, in card img, h3 and p tag with HTML.
@@ -51,7 +51,7 @@ i learned how to center a div vertically and horizontally.
 
 ## Author
 
-- Github- [Arkar Hein](https://www.your-site.com)
+- Github- [Arkar Hein](https://github.com/ArkarHein44)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 
 ## Acknowledgments
